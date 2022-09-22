@@ -1,0 +1,4 @@
+PS D:\GITRepos\node-project> node -v
+PS D:\GITRepos\node-project> npm init
+PS D:\GITRepos\node-project> node .\app.js
+PS D:\GITRepos\node-project> npm start

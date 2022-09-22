@@ -2,3 +2,14 @@ PS D:\GITRepos\node-project> node -v
 PS D:\GITRepos\node-project> npm init
 PS D:\GITRepos\node-project> node .\app.js
 PS D:\GITRepos\node-project> npm start
+
+
+
+
+PS D:\GITRepos\node-project> git add .
+PS D:\GITRepos\node-project> git commit -m "first commit"
+PS D:\GITRepos\node-project> git branch -M main
+PS D:\GITRepos\node-project> git remote add origin https://github.com/anuniqs/node-project.git
+PS D:\GITRepos\node-project> git push -u origin main
+
+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
